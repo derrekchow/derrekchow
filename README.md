@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hacks
+Below are some of my experiments made with hardware and software.
 
-<!--
-**derrekchow/derrekchow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hungr.ai
+An AI powered game of Hungry Hungry Hippos. <br/>
+[Github]() &nbsp;&nbsp;&nbsp;&nbsp; [Devpost]()
 
-Here are some ideas to get you started:
+### Automatic Cannon
+A self-aiming mini-canon that fires candy at targets. <br/>
+[Github]() &nbsp;&nbsp;&nbsp;&nbsp; [Devpost]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Point 2 Speech
+A device that speaks out loud text on page when pointed to. <br/>
+[Github]() &nbsp;&nbsp;&nbsp;&nbsp; [Devpost]()
+
+### Hack the Fridge
+A cardboard fridge that keeps track of the food you put in it. <br/>
+[Github]() &nbsp;&nbsp;&nbsp;&nbsp; [Devpost]()
+
+### Pinch Perfect
+A digital theremin that makes music using hand gestures. <br/>
+[Github]() &nbsp;&nbsp;&nbsp;&nbsp; [Devpost]()
+
+# Links
+- [Website]()
+- [LinkedIn]()
+- [Behance]()
+- [Observable]()
