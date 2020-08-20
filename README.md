@@ -20,7 +20,7 @@ Below are some of my experiments made with hardware and software.
 <p>A digital theremin that makes music using hand gestures.</p>
 
 # Links
-- [Website]()
-- [LinkedIn]()
-- [Behance]()
-- [Observable]()
+- [Website](https://www.derrekchow.com/)
+- [LinkedIn](https://www.linkedin.com/in/derrekchow)
+- [Behance](https://www.behance.net/derrekchow)
+- [Observable](https://observablehq.com/@derrekchow)
