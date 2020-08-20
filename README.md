@@ -7,19 +7,24 @@ Below are some of my experiments made with hardware and software.
 [Github]() &nbsp;&nbsp;&nbsp;&nbsp; [Devpost]()
 
 ### Automatic Cannon
-A self-aiming mini-canon that fires candy at targets. <br/>
+<p>A self-aiming mini-canon that fires candy at targets.</p>
+
 [Github]() &nbsp;&nbsp;&nbsp;&nbsp; [Devpost]()
 
 ### Point 2 Speech
-A device that speaks out loud text on page when pointed to. <br/>
+<p>A device that speaks out loud text on page when pointed to.</p>
+
 [Github]() &nbsp;&nbsp;&nbsp;&nbsp; [Devpost]()
 
 ### Hack the Fridge
-A cardboard fridge that keeps track of the food you put in it. <br/>
+<p>A cardboard fridge that keeps track of the food you put in it.</p>
+
 [Github]() &nbsp;&nbsp;&nbsp;&nbsp; [Devpost]()
 
 ### Pinch Perfect
-A digital theremin that makes music using hand gestures. <br/>
+
+<p>A digital theremin that makes music using hand gestures.</p>
+
 [Github]() &nbsp;&nbsp;&nbsp;&nbsp; [Devpost]()
 
 # Links
