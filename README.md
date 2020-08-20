@@ -2,7 +2,8 @@
 Below are some of my experiments made with hardware and software.
 
 ### Hungr.ai
-An AI powered game of Hungry Hungry Hippos. <br/>
+<p>An AI powered game of Hungry Hungry Hippos.</p>
+
 [Github]() &nbsp;&nbsp;&nbsp;&nbsp; [Devpost]()
 
 ### Automatic Cannon
