@@ -1,8 +1,8 @@
 # Links
-- ### [Website](https://www.derrekchow.com/)
-- ### [LinkedIn](https://www.linkedin.com/in/derrekchow)
-- ### [Behance](https://www.behance.net/derrekchow)
-- ### [Observable](https://observablehq.com/@derrekchow)
+- ### Projects - [derrekchow.com](https://www.derrekchow.com/)
+- ### Work - [LinkedIn](https://www.linkedin.com/in/derrekchow)
+- ### Graphic Design - [Behance](https://www.behance.net/derrekchow)
+- ### Art with code - [Observable](https://observablehq.com/@derrekchow)
 
 # Hacks
 Below are some of my experiments with hardware and software.
