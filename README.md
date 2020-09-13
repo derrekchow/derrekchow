@@ -1,7 +1,7 @@
 # Links
 - ### Projects — [derrekchow.com](https://www.derrekchow.com/)
 - ### Work — [LinkedIn](https://www.linkedin.com/in/derrekchow)
-- ### Graphic Design — [Behance](https://www.behance.net/derrekchow)
+- ### Graphic design — [Behance](https://www.behance.net/derrekchow)
 - ### Art with code — [Observable](https://observablehq.com/@derrekchow)
 
 <br/>
