@@ -1,14 +1,3 @@
-# Links
-- ### Projects — [derrekchow.com](https://www.derrekchow.com/)
-- ### Work — [LinkedIn](https://www.linkedin.com/in/derrekchow)
-- ### Graphic design — [Behance](https://www.behance.net/derrekchow)
-- ### Art with code — [Observable](https://observablehq.com/@derrekchow)
-
-<br/>
-
-# Hacks
-Below are some of my experiments with hardware and software.
-
 <img src="https://github.com/derrekchow/derrekchow/blob/master/hacks.jpg?raw=true" width="500" />
 
 ### [Hungr.ai](https://github.com/nikhilro/hungr.ai)
